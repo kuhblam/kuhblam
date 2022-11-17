@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kuhblam
 - 👀 I’m interested in: usually nerd stuff, yk
-- 🌱 I’m currently learning: HTML/CSS/JavaScript for web dev! Working on my certifications :) also
+- 🌱 I’m currently learning: HTML/CSS/JavaScript for web dev! I hope to build more skills with :) also
 - 💞️ I’m looking to collaborate on: for now, more websites.
-- 📫 How to reach me: i'll let y'all know.
+- 📫 How to reach me: email kerubo.n.ondieki@gmail.com
 
 <!---
 kuhblam/kuhblam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
