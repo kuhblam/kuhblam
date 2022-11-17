@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuhblam
 - 👀 I’m interested in: usually nerd stuff, yk
-- 🌱 I’m currently learning: HTML/CSS/JavaScript for web dev! :) also
+- 🌱 I’m currently learning: HTML/CSS/JavaScript for web dev! :)
 - 💞️ I’m looking to collaborate on: for now, more websites.
 - 📫 How to reach me: email kerubo.n.ondieki@gmail.com
 
